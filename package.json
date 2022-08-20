@@ -1,0 +1,20 @@
+{
+  "name": "hexlet-js-and-readme",
+  "type" : "module",
+  "version": "1.0.0",
+  "description": "Мой первый проект на Хекслет",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/12Zuzu12/hexlet-js-and-README.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/12Zuzu12/hexlet-js-and-README/issues"
+  },
+  "homepage": "https://github.com/12Zuzu12/hexlet-js-and-README#readme"
+}
