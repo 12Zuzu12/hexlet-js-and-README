@@ -1,6 +1,6 @@
 {
   "name": "hexlet-js-and-readme",
-  "type" : "module",
+  "type": "module",
   "version": "1.0.0",
   "description": "Мой первый проект на Хекслет",
   "main": "index.js",
@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/12Zuzu12/hexlet-js-and-README/issues"
   },
-  "homepage": "https://github.com/12Zuzu12/hexlet-js-and-README#readme"
+  "homepage": "https://github.com/12Zuzu12/hexlet-js-and-README#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
 }
